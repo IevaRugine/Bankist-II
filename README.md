@@ -16,7 +16,7 @@ For learning purposes.
 
 · Modal window
 · Button scrolling
-· Tabbed component
+· Tabbed components
 · Menu fade animation
 · Sticky navigation
 · Revealing elements on scroll
