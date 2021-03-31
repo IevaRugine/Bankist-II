@@ -12,7 +12,7 @@ For learning purposes.
 
 ## Technologies used:
 
-- JavaScript:
+- JavaScript
 
 · Modal window
 · Button scrolling
